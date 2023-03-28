@@ -1,0 +1,22 @@
+{
+  "name": "js-poo-heracles-labour-1",
+  "version": "1.0.0",
+  "description": "Prérequis : cloner ce _dépôt_.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Stagy73/js-poo-heracles-labour-1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Stagy73/js-poo-heracles-labour-1/issues"
+  },
+  "homepage": "https://github.com/Stagy73/js-poo-heracles-labour-1#readme",
+  "dependencies": {
+    "fighter": "^0.0.1"
+  }
+}
